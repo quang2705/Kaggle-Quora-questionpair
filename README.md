@@ -5,12 +5,6 @@
 </object>
 
 
-<object data="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
 
 <h1>PDF.js 'Hello, world!' example</h1>
