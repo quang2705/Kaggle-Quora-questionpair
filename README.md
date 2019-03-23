@@ -1,3 +1,5 @@
 # Kaggle-Quora-questionpair
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf" width="500" height="375">
+<object data="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf" type="application/pdf" width="300" height="200">
+  alt : <a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf">test.pdf</a>
+</object>
