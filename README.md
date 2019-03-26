@@ -12,8 +12,8 @@ In addition, I use word2vec pre-train vector from Glove to support the sentiment
 
 ## Slide
 
-A slide show to show how well my prediction works including the accuracy, precision and recall. It also shows some of the algorithm that I use for this particular problem
+A slide show to show how well my prediction works including the accuracy, precision and recall value. It also shows some of the algorithm that I use for this particular problem
 
 <object data="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf" type="application/pdf" width="300" height="200">
-  alt : <a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf">Question pair similarity</a>
+  <a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf">Question pair similarity</a>
 </object>
