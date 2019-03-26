@@ -22,4 +22,4 @@ A slide show to show how well my prediction works including the accuracy, precis
 ## Paper
 A final technical report on the quora question pair problem, as well as detail discussion of the algorithm and technique that I use for the final prediction.
 
-<a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/NLP_final_project.pdf">final paper</a>.
+<a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/NLP_final_project.pdf">Final paper</a>.
