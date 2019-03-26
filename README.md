@@ -8,7 +8,7 @@ The problem gives us a training dataset of question pair and the testset. The ta
 ## Dataset 
 The training dataset and the test dataset can befound using Kaggle dataset :<a href="https://www.kaggle.com/c/quora-question-pairs/data">Kaggle Quora question pair dataset</a>.
 
-In addition, I use word2vec pre-train vector from Glove to support the sentiment analysis for my model: <a href:"https://nlp.stanford.edu/projects/glove"> Glove word2vec</a>
+In addition, I use word2vec pre-train vector from Glove to support the sentiment analysis for my model: <a href="https://nlp.stanford.edu/projects/glove">Glove word2vec</a>
 
 ## Slide
 
