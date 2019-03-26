@@ -17,3 +17,9 @@ A slide show to show how well my prediction works including the accuracy, precis
 <object data="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf" type="application/pdf" width="300" height="200">
   <a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/Question_pair_similarity.pdf">Question pair similarity</a>
 </object>
+
+
+## Paper
+A final technical report on the quora question pair problem, as well as detail discussion of the algorithm and technique that I use for the final prediction.
+
+<a href="https://github.com/quang2705/Kaggle-Quora-questionpair/blob/master/NLP_final_project.pdf">final paper</a>.
